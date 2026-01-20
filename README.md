@@ -5,7 +5,7 @@
 --- 
 
 ![PGEDU+](img/logo/pgedu.png)
-![FERS](img/logo/fers.png)
+![FERS](img/logo/fers2.png)
 ---
 
 Analiza i wizualizacja danych w Pythonie - kurs realizowany w ramach projektu PGEdu+
