@@ -9,7 +9,7 @@ project:
       ref: main
       provider: github
   id: 206d3f6a-eb48-49c5-aca8-63053405fdf3
-  title: AWDP 2025
+  title: AWDP 2026
   license: CC-BY-4.0
   description: Analiza i wizualizacja danych w Pythonie
   keywords: [sad, statystyka, analiza danych]
@@ -42,4 +42,4 @@ site:
     twitter: Karol_Flisik
     favicon: sad.ico
     logo: img/awdp.png
-    extra_footer: "© 2025 Karol Flisikowski. All rights reserved."
+    extra_footer: "© 2026 Karol Flisikowski. All rights reserved."
