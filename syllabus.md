@@ -31,11 +31,11 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 | Kto?              | Kiedy?      | Gdzie?                                                         |
 |--------------------|------------------------|-----------------------------|
-| Karol Flisikowski | Wtorki 13-14 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
+| Karol Flisikowski | Środy 12-13 | [Online](https://calendly.com/flisik/konsultacje-office-hours) |
 
 ## Ocena końcowa
 
-Twoja ocena końcowa z przedmiotu AWDP bazuje na teście końcowym.
+Twoja ocena końcowa z przedmiotu AWDP bazuje na teście końcowym i projekcie zespołowym.
 
 ### Skala ocen
 

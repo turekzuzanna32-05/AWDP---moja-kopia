@@ -6,7 +6,7 @@ downloads:
 
 # Witaj na kursie AWDP!
 
-AWDP | Karol Flisikowski | Zima 2025 | PG
+AWDP | Karol Flisikowski | RA 2025/2026 | PG
 
 ## O kursie
 
@@ -31,7 +31,7 @@ E-mail: [karflisi@pg.edu.pl](mailto:karflisi@pg.edu.pl) | [karol@ctbu.edu.cn](ma
 
 ## Konsultacje 
 
-Konsultacje online - w semestrze zimowym 2025/2026 - we wtorki 13-14 - umawiane poprzez Calendly tutaj: [link](https://calendly.com/flisik/konsultacje-office-hours)
+Konsultacje online - w semestrze letnim 2025/2026 - we środy 12-13 - umawiane poprzez Calendly tutaj: [link](https://calendly.com/flisik/konsultacje-office-hours)
 
 ## Tematy
 

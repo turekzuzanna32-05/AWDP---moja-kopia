@@ -8,7 +8,7 @@
 ![FERS](img/logo/fers2.png)
 ---
 
-Analiza i wizualizacja danych w Pythonie - kurs realizowany w ramach projektu PGEdu+
+Analiza i wizualizacja danych w Pythonie - kurs realizowany w ramach projektu PGEdu+ 2025-2026
 
 ---
 
