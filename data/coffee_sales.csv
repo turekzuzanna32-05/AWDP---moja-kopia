@@ -1,0 +1,101 @@
+payment_type,money,coffee_name,Date,Time
+card,38.7,Latte,03/01/24,10:15
+card,38.7,Hot Chocolate,03/01/24,12:19
+cash,38.7,Hot Chocolate,03/01/24,12:20
+card,28.9,Americano,03/01/24,13:46
+card,38.7,Latte,03/01/24,13:48
+card,33.8,Americano with Milk,03/01/24,15:39
+cash,38.7,Hot Chocolate,03/01/24,16:19
+card,33.8,Americano with Milk,03/01/24,18:39
+card,38.7,Cocoa,03/01/24,19:22
+card,33.8,Americano with Milk,03/01/24,19:23
+card,33.8,Americano with Milk,03/01/24,19:29
+card,28.9,Americano,03/02/24,10:22
+cash,33.8,Americano with Milk,03/02/24,10:41
+cash,33.8,Americano with Milk,03/02/24,11:59
+cash,28.9,Americano,03/02/24,14:38
+card,33.8,Americano with Milk,03/02/24,16:37
+card,28.9,Americano,03/02/24,17:34
+card,38.7,Latte,03/03/24,10:27
+card,28.9,Cortado,03/03/24,11:33
+cash,28.9,Americano,03/03/24,12:26
+card,38.7,Hot Chocolate,03/03/24,13:09
+card,38.7,Cocoa,03/03/24,17:06
+card,28.9,Cortado,03/03/24,17:08
+card,33.8,Americano with Milk,03/03/24,18:03
+card,33.8,Americano with Milk,03/03/24,18:04
+card,38.7,Hot Chocolate,03/03/24,18:08
+card,38.7,Latte,03/04/24,10:03
+card,38.7,Latte,03/04/24,10:54
+card,33.8,Americano with Milk,03/04/24,11:05
+card,24,Espresso,03/04/24,14:04
+card,38.7,Latte,03/05/24,9:59
+card,38.7,Latte,03/05/24,14:34
+card,38.7,Latte,03/05/24,17:34
+card,38.7,Hot Chocolate,03/05/24,17:35
+card,38.7,Cocoa,03/05/24,17:36
+card,38.7,Hot Chocolate,03/05/24,17:37
+card,38.7,Hot Chocolate,03/05/24,17:38
+card,28.9,Cortado,03/05/24,17:56
+card,38.7,Hot Chocolate,03/05/24,18:01
+card,28.9,Americano,03/06/24,13:24
+card,28.9,Cortado,03/06/24,13:25
+card,38.7,Cappuccino,03/06/24,14:52
+card,38.7,Cappuccino,03/06/24,14:53
+card,38.7,Hot Chocolate,03/07/24,10:18
+card,38.7,Latte,03/07/24,11:03
+card,28.9,Americano,03/07/24,15:40
+card,33.8,Americano with Milk,03/07/24,15:41
+card,28.9,Cortado,03/08/24,10:34
+card,38.7,Cappuccino,03/08/24,12:22
+card,28.9,Americano,03/08/24,13:53
+card,28.9,Americano,03/08/24,14:44
+card,28.9,Americano,03/08/24,14:45
+card,33.8,Americano with Milk,03/08/24,14:46
+card,38.7,Latte,03/08/24,18:57
+card,38.7,Latte,03/08/24,18:59
+card,24,Espresso,03/09/24,12:05
+card,28.9,Americano,03/09/24,12:07
+card,38.7,Cappuccino,03/09/24,12:09
+card,28.9,Americano,03/09/24,12:13
+card,28.9,Americano,03/09/24,12:14
+card,38.7,Latte,03/09/24,13:09
+card,33.8,Americano with Milk,03/09/24,13:41
+card,28.9,Cortado,03/09/24,13:53
+card,38.7,Cappuccino,03/09/24,13:54
+card,33.8,Americano with Milk,03/09/24,14:08
+card,38.7,Hot Chocolate,03/09/24,14:26
+card,38.7,Cappuccino,03/09/24,19:17
+card,38.7,Hot Chocolate,03/09/24,19:19
+card,24,Espresso,03/10/24,11:19
+card,38.7,Latte,03/10/24,19:34
+card,28.9,Cortado,03/10/24,19:35
+card,38.7,Cappuccino,03/11/24,11:32
+card,28.9,Americano,03/11/24,16:24
+card,38.7,Latte,03/11/24,16:25
+card,28.9,Cortado,03/11/24,16:50
+card,28.9,Americano,03/12/24,10:15
+card,28.9,Cortado,03/12/24,10:16
+card,38.7,Hot Chocolate,03/12/24,11:20
+card,33.8,Americano with Milk,03/12/24,12:46
+cash,28.9,Americano,03/12/24,12:47
+card,28.9,Americano,03/12/24,16:15
+card,38.7,Hot Chocolate,03/13/24,11:06
+card,28.9,Americano,03/13/24,11:48
+card,28.9,Americano,03/13/24,12:18
+card,28.9,Americano,03/13/24,12:19
+card,33.8,Americano with Milk,03/13/24,14:26
+card,24,Espresso,03/13/24,15:40
+card,24,Espresso,03/13/24,15:41
+card,24,Espresso,03/13/24,16:47
+card,38.7,Latte,03/14/24,10:28
+card,38.7,Hot Chocolate,03/14/24,10:29
+card,28.9,Cortado,03/14/24,13:27
+card,28.9,Americano,03/14/24,13:28
+card,33.8,Americano with Milk,03/14/24,13:52
+cash,24,Espresso,03/14/24,13:52
+card,38.7,Latte,03/14/24,15:20
+card,33.8,Americano with Milk,03/14/24,16:04
+card,24,Espresso,03/14/24,16:54
+card,38.7,Hot Chocolate,03/14/24,18:58
+card,28.9,Cortado,03/14/24,19:00
