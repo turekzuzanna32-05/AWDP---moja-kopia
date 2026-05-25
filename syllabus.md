@@ -35,7 +35,7 @@ Moim celem jest, abyś pod koniec kursu był(a) w stanie:
 
 ## Ocena końcowa
 
-Twoja ocena końcowa z przedmiotu AWDP bazuje na teście końcowym i projekcie zespołowym.
+Twoja ocena końcowa z przedmiotu AWDP bazuje na teście końcowym i [projekcie zespołowym](final.md).
 
 ### Skala ocen
 
